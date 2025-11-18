@@ -1,0 +1,20 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "**Date**: 2025-11-06",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoTorrealba/weather-app-pbl.git"
+  },
+  "keywords": [],
+  "author": "Diego Torrealba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoTorrealba/weather-app-pbl/issues"
+  },
+  "homepage": "https://github.com/DiegoTorrealba/weather-app-pbl#readme"
+}
